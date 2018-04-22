@@ -6,3 +6,7 @@ Portfolio using ReactJS and Amazon Web Services.
 
 Git/GitHub
 SSH
+HTML
+CSS
+Font Awesome
+Google Font
